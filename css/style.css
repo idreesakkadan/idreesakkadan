@@ -728,7 +728,7 @@ span.font {
     text-align: center;
 }
 .education-info,.exp-info-right {
-    padding: 10em 0em;
+    padding: 15em 0em;
 }
 .back-shadow{-webkit-box-shadow: -3px 7px 39px -5px rgba(0,0,0,0);
     -moz-box-shadow: -3px 7px 39px -5px rgba(0,0,0,0);
@@ -736,7 +736,7 @@ span.font {
 }
 .experience-info{padding-top:3em;}
 .edu-right:nth-child(4),.exp-left:nth-child(4) {
-    margin-bottom: 0em;
+    margin-bottom: 7em;
 }
 /*--//Experience--*/
 /*-- gallery --*/ 
